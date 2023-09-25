@@ -1,0 +1,6 @@
+steps for exporting table record
+1) .header on
+2) .mode csv
+3) .output result.csv
+4) select * from result
+5) .quit
